@@ -5,6 +5,6 @@
 #include "HelloWorld.h"
 
 int main(int argc, char *argv[]) {
-    printf("Hello world! \n\n");
+    printf("Hello world! (binary) \n\n");
     return 0;
 }
